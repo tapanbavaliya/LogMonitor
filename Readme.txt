@@ -1,1 +1,3 @@
-This is a new readme.
+Log Monitor
+
+Monitors and processes a log file.
